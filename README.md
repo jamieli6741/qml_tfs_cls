@@ -78,4 +78,6 @@ python inference.py
 # Select model type when prompted (classical/quantum)
 ```
 
+## Results
+Please refer to project_report.pdf
 
